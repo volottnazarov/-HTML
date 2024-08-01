@@ -1,0 +1,49 @@
+﻿body{
+    background-color: rgb(237, 236, 165);
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.link{
+    color: brown;
+    font-size: 18px;
+    line-height: 20px;
+}
+.title{
+    color: red;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.menu{
+    color: rgba(19, 169, 134, 0.966);
+}
+.text{
+    font-style:italic;
+    color: rgb(84, 36, 46);
+}
+.picture{
+    border-radius: 30px;
+    width: 150px;
+}
+.inputText{
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 2px solid rgb(112, 7, 7);
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    background-color: rgb(220, 245, 210);
+}
+.btn{
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 2px solid rgb(112, 7, 7);
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    background-color: rgb(220, 245, 210);
+}
